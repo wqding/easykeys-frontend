@@ -1,7 +1,7 @@
 # About
 ## Live demo
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+Coming soon
 
 ## Simple Pro
 
